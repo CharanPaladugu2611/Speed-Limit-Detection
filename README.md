@@ -87,12 +87,19 @@ TFLite Runtime | Inference on Raspberry Pi
 * Trigger buzzer alert for driver awareness
 
 ## 🎯 Results
-Metric | Value
-:---:|:---:|
-Accuracy | ~94%
-Precision | ~93%
-Recall | ~92%
-F1-Score | ~92.5%
+|Metric | Value|
+|:---:|:---:|
+|Accuracy | ~94%|
+|Precision | ~93%|
+|Recall | ~92%|
+|F1-Score | ~92.5%|
+
+These are the images illustrating the final working model
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/907ee393-75e1-490e-a4bf-01fc153460ce" width="22.5%" alt="Image 1"/>
+  <img src="https://github.com/user-attachments/assets/d6caaa02-5871-4792-9943-42d7ab809e9c" width="45%" alt="Image 2"/>
+</p>
 
 ## 📈 Future Improvements
 * Real-time video stream processing (vs frame-by-frame)
